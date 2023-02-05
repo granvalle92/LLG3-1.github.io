@@ -1,0 +1,57 @@
+body{
+    color:rgb(0, 83, 113);
+    background-color: #fefefe;
+    }
+
+header h1{
+    height: 700px;
+    background-image: url("marca.png");
+    background-size:400px;
+    background-repeat: no-repeat;
+   font-size: 3rem; ;
+    text-align: center;
+}
+
+
+
+
+.margen{    
+    background-color:rgb(203, 202, 199);
+    margin: 30px ;
+    padding:20px ;
+    border:solid 2px rgb(255, 255, 255) ;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center bottom  justify;
+    background-position: center bottom;
+}
+
+a:link{
+    color: blueviolet;
+}
+
+a:visited{
+    color:rgb(0, 89, 145)
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:active{
+    color: black;
+}
+
+.article{background-position: center bottom justify;}
+
+.menu{
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 1200 900;
+    background-color: black;
+    
+}
